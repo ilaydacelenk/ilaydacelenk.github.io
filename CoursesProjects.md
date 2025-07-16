@@ -28,5 +28,9 @@ Nonlinear optimization techniques for graphs in economics.
 * Systems Theory by Gönenç Yücel ([IE 533](/Syllabus/IE533.pdf))
 
 ## [LNMB](https://www.lnmb.nl/):
-* Stochastic Programming by Ward Romeijnders ([SP](/Syllabus/LNMB_SP_geninfo_2024.pdf))
-* Robust Optimization by Frans de Ruiter and Ahmadreza Marandi
+* [Stochastic Programming](https://www.lnmb.nl/pages/courses/phdcourses/SP.html) by Ward Romeijnders
+* [Robust Optimization](https://www.lnmb.nl/pages/courses/phdcourses/RO.html) by Frans de Ruiter and Ahmadreza Marandi
+* [Markov Decision Processes](https://www.lnmb.nl/pages/courses/phdcourses/archived/MDP.html) by Aleida Braaksma and Floske Spieksma
+
+## [GP-OML](https://www.gpoml.nl/):
+* [Reinforcement Learning for Operations Management](https://gpoml.nl/courses/capita-selecta-reinforcement-learning-for-operations-management-2/) by Willem van Jaarsveld, Wouter van Heeswijk, Martijn Mes and Zaharah Bukhsh
